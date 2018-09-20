@@ -1,0 +1,10 @@
+Material Wasser1 : Common/MatDefs/Misc/Unshaded.j3md {
+     MaterialParameters {
+        Color : 0.0 1.0 0.2784314 1.0
+     }
+    AdditionalRenderState {
+      DepthTest Off
+      PointSprite Off
+      ColorWrite Off
+    }
+}
